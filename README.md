@@ -1,6 +1,6 @@
 # Equilibrium: Seu Terapeuta Pessoal com IA
 
-Equilibrium é uma aplicação web full-stack moderna que oferece um companheiro de saúde mental baseado em Inteligência Artificial. Construído do zero, este projeto simula uma experiência terapêutica completa, desde o rastreamento de humor até sessões de chat interativas com uma IA avançada (Google Gemini).
+Equilibrium é uma aplicação web full-stack moderna que oferece um companheiro de saúde mental baseado em Inteligência Artificial. Construído do zero, este projeto simula uma experiência terapêutica completa, desde o rastreamento de humor até sessões de chat interativas com uma IA avançada: Serena (Google Gemini).
 
 Este projeto foi desenvolvido não apenas como uma ferramenta funcional, mas como uma demonstração robusta de arquitetura de software moderna, integrando um front-end reativo, um back-end seguro, um banco de dados NoSQL e serviços de IA de ponta.
 
