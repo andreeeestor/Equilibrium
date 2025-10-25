@@ -5,7 +5,7 @@ import { Card } from "@/components/ui/card";
 import { Container } from "@/components/Container";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import { Lock, Mail, User } from "lucide-react";
+import { Eye, EyeClosed, Lock, Mail, User } from "lucide-react";
 import Link from "next/link";
 
 export default function SignUpPage() {
@@ -15,6 +15,24 @@ export default function SignUpPage() {
     password: "",
     confirmPassword: "",
   });
+  const [eye1, setEye1] = useState(false);
+  const [eye2, setEye2] = useState(false);
+
+  const handleEye1 = () => {
+    if (!eye1) {
+      setEye1(true);
+    } else {
+      setEye1(false);
+    }
+  };
+
+  const handleEye2 = () => {
+    if (!eye2) {
+      setEye2(true);
+    } else {
+      setEye2(false);
+    }
+  };
 
   return (
     <div className="min-h-screen w-full flex items-center justify-center bg-linear-to-br from-primary/10 via-background to-secondary/30">
@@ -81,7 +99,7 @@ export default function SignUpPage() {
                 <Lock className="absolute left-3 top-1/2 -translate-y-1/2 size-5 text-muted-foreground" />
                 <Input
                   id="password"
-                  type="password"
+                  type={!eye1 ? "password" : "text"}
                   placeholder="Insira sua senha"
                   value={form.password}
                   onChange={(e) =>
@@ -90,6 +108,12 @@ export default function SignUpPage() {
                   className="pl-12 py-2 text-base rounded-xl bg-card bg-opacity-80 border border-primary focus:outline-none focus:ring-2 focus:ring-primary text-white placeholder:text-muted-foreground"
                   required
                 />
+                <span
+                  className="cursor-pointer absolute right-3 top-1/2 -translate-y-1/2"
+                  onClick={handleEye1}
+                >
+                  {eye1 ? <Eye /> : <EyeClosed />}
+                </span>
               </div>
             </div>
             <div className="space-y-3">
@@ -103,7 +127,7 @@ export default function SignUpPage() {
                 <Lock className="absolute left-3 top-1/2 -translate-y-1/2 size-5 text-muted-foreground" />
                 <Input
                   id="confirmPassword"
-                  type="password"
+                  type={!eye2 ? "password" : "text"}
                   placeholder="Confirme sua senha"
                   value={form.confirmPassword}
                   onChange={(e) =>
@@ -112,6 +136,12 @@ export default function SignUpPage() {
                   className="pl-12 py-2 text-base rounded-xl bg-card bg-opacity-80 border border-primary focus:outline-none focus:ring-2 focus:ring-primary text-white placeholder:text-muted-foreground"
                   required
                 />
+                <span
+                  className="cursor-pointer absolute right-3 top-1/2 -translate-y-1/2"
+                  onClick={handleEye2}
+                >
+                  {eye2 ? <Eye /> : <EyeClosed />}
+                </span>
               </div>
             </div>
 
@@ -125,16 +155,12 @@ export default function SignUpPage() {
           </form>
 
           <div className="flex items-center justify-center gap-2 text-sm">
-            <span className="text-muted-foreground">Não tem uma conta?</span>
+            <span className="text-muted-foreground">Já tem uma conta?</span>
             <Link
-              href={"/signup"}
+              href={"/login"}
               className="text-primary font-semibold underline"
             >
-              Cadastrar
-            </Link>
-            <span className="text-muted-foreground">|</span>
-            <Link href={"/forgot-password"} className="text-primary underline">
-              Esqueceu a senha?
+              Entrar
             </Link>
           </div>
         </Card>

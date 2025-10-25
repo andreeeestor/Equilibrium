@@ -8,7 +8,7 @@ interface SignInButtonProps {
 export default function SignInButton(props: SignInButtonProps) {
   return (
     <Button asChild className={props.className}>
-      <Link href={"/login"}>Cadastre-se</Link>
+      <Link href={"/login"}>Entrar</Link>
     </Button>
   );
 }
