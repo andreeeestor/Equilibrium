@@ -12,7 +12,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "inngest": "^3.44.3",
+    "winston": "^3.18.3"
   },
   "devDependencies": {
     "@types/express": "^5.0.4",
