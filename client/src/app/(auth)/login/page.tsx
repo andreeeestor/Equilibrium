@@ -5,7 +5,7 @@ import { Card } from "@/components/ui/card";
 import { Container } from "@/components/Container";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import { Lock, Mail } from "lucide-react";
+import { Eye, EyeClosed, Lock, Mail } from "lucide-react";
 import Link from "next/link";
 
 export default function LoginPage() {
@@ -13,6 +13,15 @@ export default function LoginPage() {
     email: "",
     password: "",
   });
+  const [eye, setEye] = useState(false)
+
+  const handleEye = () => {
+    if(!eye) {
+        setEye(true)
+    } else {
+        setEye(false)
+    }
+  }
 
   return (
     <div className="min-h-screen w-full flex items-center justify-center bg-linear-to-br from-primary/10 via-background to-secondary/30">
@@ -60,7 +69,7 @@ export default function LoginPage() {
                 <Lock className="absolute left-3 top-1/2 -translate-y-1/2 size-5 text-muted-foreground" />
                 <Input
                   id="password"
-                  type="password"
+                  type={!eye ? "password" : "text"}
                   placeholder="Insira sua senha"    
                   value={form.password}
                   onChange={(e) =>
@@ -69,6 +78,9 @@ export default function LoginPage() {
                   className="pl-12 py-2 text-base rounded-xl bg-card bg-opacity-80 border border-primary focus:outline-none focus:ring-2 focus:ring-primary text-white placeholder:text-muted-foreground"
                   required
                 />
+                <span className="cursor-pointer absolute right-3 top-1/2 -translate-y-1/2" onClick={handleEye}>
+                    {eye ? <Eye /> : <EyeClosed />}
+                </span>
               </div>
             </div>
 
