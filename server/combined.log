@@ -132,3 +132,1263 @@
 {"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T01:59:34.742Z"}
 {"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T01:59:34.750Z"}
 {"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T01:59:34.750Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:04:14.641Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:04:14.645Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:04:14.645Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:13:42.946Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:13:42.952Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:13:42.952Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:13:49.824Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:13:49.830Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:13:49.830Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:13:51.580Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:13:51.584Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:13:51.584Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:13:53.659Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:13:53.665Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:13:53.666Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:13:57.933Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:13:57.938Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:13:57.938Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:14:02.596Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:14:02.603Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:14:02.603Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:14:10.103Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:14:10.105Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:14:10.106Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:14:20.497Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:14:20.503Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:14:20.504Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:14:24.568Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:14:24.572Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:14:24.572Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:14:37.892Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:14:37.896Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:14:37.896Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:15:00.473Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:15:00.475Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:15:00.475Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:15:21.664Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:15:21.668Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:15:21.669Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:15:29.242Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:15:29.248Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:15:29.248Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:15:30.928Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:15:30.931Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:15:30.931Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:15:33.660Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:15:33.663Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:15:33.664Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:15:35.237Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:15:35.244Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:15:35.245Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:15:39.962Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:15:39.965Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:15:39.965Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:15:48.648Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:15:48.654Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:15:48.654Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:15:50.324Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:15:50.326Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:15:50.326Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:15:53.291Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:15:53.298Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:15:53.299Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:15:57.087Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:15:57.089Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:15:57.089Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:16:00.610Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:16:00.612Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:16:00.612Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:16:04.198Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:16:04.200Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:16:04.200Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:16:07.214Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:16:07.216Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:16:07.217Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:16:11.166Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:16:11.168Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:16:11.168Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:16:13.188Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:16:13.191Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:16:13.191Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:16:14.721Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:16:14.723Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:16:14.723Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:16:20.116Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:16:20.118Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:16:20.119Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:16:24.150Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:16:24.152Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:16:24.152Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:16:26.615Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:16:26.617Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:16:26.617Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:16:33.412Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:16:33.414Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:16:33.415Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:16:38.559Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:16:38.563Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:16:38.563Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:16:44.140Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:16:44.144Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:16:44.145Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:16:45.731Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:16:45.738Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:16:45.738Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:16:47.364Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:16:47.367Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:16:47.368Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:16:51.306Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:16:51.310Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:16:51.311Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:17:02.875Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:17:02.879Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:17:02.880Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:17:04.775Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:17:04.782Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:17:04.783Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:17:27.179Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:17:27.182Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:17:27.182Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:17:33.884Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:17:33.891Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:17:33.892Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:18:12.149Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:18:12.153Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:18:12.154Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:18:15.640Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:18:15.642Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:18:15.642Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:18:23.111Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:18:23.114Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:18:23.114Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:18:25.779Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:18:25.781Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:18:25.781Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:18:29.074Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:18:29.076Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:18:29.077Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:18:33.675Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:18:33.677Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:18:33.678Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:18:35.926Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:18:35.932Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:18:35.932Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:18:39.153Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:18:39.156Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:18:39.156Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:18:44.049Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:18:44.056Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:18:44.056Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:20:27.576Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:20:27.579Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:20:27.580Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:21:33.840Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:21:33.842Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:21:33.842Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:21:46.629Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:21:46.636Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:21:46.637Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:21:51.927Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:21:51.929Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:21:51.929Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:21:55.195Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:21:55.200Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:21:55.200Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:22:00.905Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:22:00.907Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:22:00.907Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:22:02.895Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:22:02.897Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:22:02.898Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:22:06.595Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:22:06.600Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:22:06.600Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:22:12.307Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:22:12.310Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:22:12.310Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:22:14.335Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:22:14.338Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:22:14.338Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:22:16.843Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:22:16.845Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:22:16.846Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:22:22.619Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:22:22.625Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:22:22.625Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:22:28.899Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:22:28.902Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:22:28.902Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:22:30.937Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:22:30.944Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:22:30.944Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:22:34.546Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:22:34.549Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:22:34.549Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:22:38.972Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:22:38.975Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:22:38.975Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:22:41.091Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:22:41.096Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:22:41.096Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:22:46.066Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:22:46.068Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:22:46.068Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:22:51.147Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:22:51.153Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:22:51.153Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:22:54.812Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:22:54.816Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:22:54.817Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:23:28.980Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:23:28.983Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:23:28.983Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:23:33.745Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:23:33.748Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:23:33.748Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:23:35.915Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:23:35.922Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:23:35.923Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:23:39.186Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:23:39.193Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:23:39.194Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:23:40.863Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:23:40.866Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:23:40.866Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:23:43.168Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:23:43.170Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:23:43.170Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:23:48.710Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:23:48.713Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:23:48.713Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:23:52.093Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:23:52.095Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:23:52.095Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:23:54.970Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:23:54.972Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:23:54.973Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:23:57.898Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:23:57.900Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:23:57.900Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:23:59.788Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:23:59.794Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:23:59.795Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:24:01.486Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:24:01.488Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:24:01.488Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:24:03.607Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:24:03.610Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:24:03.610Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:24:07.551Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:24:07.557Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:24:07.557Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:24:09.346Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:24:09.348Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:24:09.349Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:24:12.263Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:24:12.271Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:24:12.271Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:24:19.911Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:24:19.918Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:24:19.918Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:24:23.238Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:24:23.240Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:24:23.240Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:24:25.486Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:24:25.493Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:24:25.493Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:28:02.306Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:28:02.311Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:28:02.311Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:28:06.616Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:28:06.619Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:28:06.620Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:28:09.348Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:28:09.351Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:28:09.352Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:28:11.984Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:28:11.990Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:28:11.991Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:28:15.293Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:28:15.296Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:28:15.296Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:28:18.864Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:28:18.867Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:28:18.868Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:28:21.482Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:28:21.485Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:28:21.486Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:28:30.366Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:28:30.372Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:28:30.373Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:28:59.543Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:28:59.545Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:28:59.545Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:02.095Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:02.097Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:02.097Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:04.857Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:04.859Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:04.860Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:08.032Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:08.035Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:08.035Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:11.093Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:11.095Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:11.095Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:14.561Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:14.567Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:14.568Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:20.192Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:20.194Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:20.195Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:21.996Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:21.998Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:21.998Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:27.389Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:27.392Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:27.392Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:32.028Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:32.031Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:32.031Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:34.329Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:34.335Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:34.336Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:38.644Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:38.650Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:38.650Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:41.632Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:41.639Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:41.640Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:45.530Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:45.533Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:45.533Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:48.615Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:48.622Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:48.623Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:55.064Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:55.066Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:55.067Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:29:59.798Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:29:59.800Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:29:59.800Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:30:05.118Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:30:05.121Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:30:05.121Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:30:07.740Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:30:07.744Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:30:07.744Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:30:09.985Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:30:09.989Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:30:09.989Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:30:12.193Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:30:12.198Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:30:12.198Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:30:57.490Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:30:57.495Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:30:57.496Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:31:06.001Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:31:06.006Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:31:06.006Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:31:07.450Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:31:07.455Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:31:07.456Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:31:10.783Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:31:10.786Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:31:10.786Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:31:14.145Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:31:14.151Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:31:14.152Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:31:22.211Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:31:22.217Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:31:22.217Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:31:25.280Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:31:25.282Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:31:25.282Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:31:28.390Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:31:28.397Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:31:28.397Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:31:53.642Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:31:53.644Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:31:53.644Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:32:00.131Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:32:00.134Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:32:00.134Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:32:04.013Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:32:04.019Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:32:04.019Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T02:32:51.033Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T02:32:51.040Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T02:32:51.040Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:41:47.573Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:41:47.579Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:41:47.579Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:43:31.635Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:43:31.639Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:43:31.640Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:43:49.886Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:43:49.889Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:43:49.890Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:43:53.026Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:43:53.029Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:43:53.029Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:43:59.872Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:43:59.878Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:43:59.878Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:44:06.430Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:44:06.433Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:44:06.433Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:44:29.383Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:44:29.387Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:44:29.387Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:45:50.746Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:45:50.750Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:45:50.750Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:45:56.503Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:45:56.510Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:45:56.510Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:45:58.301Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:45:58.308Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:45:58.308Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:46:02.310Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:46:02.316Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:46:02.316Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:46:04.153Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:46:04.158Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:46:04.158Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:47:20.213Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:47:20.218Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:47:20.219Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:47:23.530Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:47:23.535Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:47:23.536Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:47:26.726Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:47:26.730Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:47:26.730Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:47:32.624Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:47:32.626Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:47:32.626Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:47:40.291Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:47:40.296Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:47:40.296Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:47:42.917Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:47:42.923Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:47:42.923Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:47:51.231Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:47:51.238Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:47:51.238Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:47:57.616Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:47:57.620Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:47:57.621Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:48:01.617Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:48:01.624Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:48:01.624Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:48:05.212Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:48:05.215Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:48:05.215Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:48:09.988Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:48:09.996Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:48:09.996Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:48:17.392Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:48:17.397Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:48:17.398Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:48:21.572Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:48:21.575Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:48:21.576Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:48:24.413Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:48:24.419Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:48:24.419Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:48:33.015Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:48:33.019Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:48:33.019Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:48:37.164Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:48:37.167Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:48:37.167Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:48:43.099Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:48:43.101Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:48:43.101Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:48:48.419Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:48:48.423Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:48:48.423Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:48:49.943Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:48:49.948Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:48:49.948Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:48:53.986Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:48:53.989Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:48:53.990Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:48:56.387Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:48:56.389Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:48:56.390Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:49:03.681Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:49:03.684Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:49:03.684Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:49:09.562Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:49:09.564Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:49:09.564Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:49:14.497Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:49:14.504Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:49:14.505Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:49:21.550Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:49:21.556Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:49:21.557Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:49:30.199Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:49:30.206Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:49:30.206Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:49:45.425Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:49:45.432Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:49:45.432Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:49:47.066Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:49:47.070Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:49:47.070Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:49:54.149Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:49:54.156Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:49:54.157Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:51:40.901Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:51:40.907Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:51:40.908Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:51:42.630Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:51:42.638Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:51:42.638Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:51:46.594Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:51:46.601Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:51:46.601Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:51:52.993Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:51:52.999Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:51:53.000Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:51:56.882Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:51:56.889Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:51:56.889Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:51:59.181Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:51:59.188Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:51:59.189Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:52:08.452Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:52:08.456Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:52:08.456Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:52:12.000Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:52:12.004Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:52:12.005Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:52:14.708Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:52:14.717Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:52:14.717Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:52:29.330Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:52:29.336Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:52:29.336Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:52:33.996Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:52:33.999Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:52:33.999Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:53:24.181Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:53:24.184Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:53:24.184Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:55:00.918Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:55:00.922Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:55:00.923Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:55:04.496Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:55:04.503Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:55:04.504Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:55:08.996Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:55:09.001Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:55:09.001Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:55:10.876Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:55:10.882Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:55:10.883Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:55:17.151Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:55:17.156Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:55:17.157Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:57:22.390Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:57:22.398Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:57:22.398Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:57:27.009Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:57:27.012Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:57:27.012Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:57:28.922Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:57:28.928Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:57:28.929Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:57:32.237Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:57:32.240Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:57:32.241Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:57:40.175Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:57:40.182Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:57:40.183Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:57:47.266Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:57:47.270Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:57:47.270Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:57:49.187Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:57:49.189Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:57:49.189Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:57:51.623Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:57:51.626Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:57:51.626Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:57:55.175Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:57:55.178Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:57:55.179Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:57:57.130Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:57:57.136Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:57:57.136Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:58:06.806Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:58:06.809Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:58:06.809Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:58:10.180Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:58:10.187Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:58:10.188Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:58:49.037Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:58:49.043Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:58:49.043Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:58:59.641Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:58:59.647Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:58:59.647Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:59:13.468Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:59:13.471Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:59:13.471Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:59:19.981Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:59:19.989Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:59:19.989Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:59:25.306Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:59:25.310Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:59:25.311Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:59:35.310Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:59:35.316Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:59:35.316Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:59:39.621Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:59:39.623Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:59:39.623Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:59:42.275Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:59:42.281Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:59:42.281Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T14:59:49.084Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T14:59:49.092Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T14:59:49.093Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:02:21.258Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:02:21.261Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:02:21.261Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:02:28.847Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:02:28.850Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:02:28.850Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:02:40.933Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:02:40.938Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:02:40.939Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:02:44.466Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:02:44.470Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:02:44.470Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:03:51.395Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:03:51.402Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:03:51.402Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:04:05.452Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:04:05.460Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:04:05.460Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:05:23.126Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:05:23.129Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:05:23.129Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:05:25.703Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:05:25.710Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:05:25.710Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:05:30.080Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:05:30.084Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:05:30.084Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:17:45.021Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:17:45.023Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:17:45.024Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:17:47.458Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:17:47.465Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:17:47.465Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:18:10.151Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:18:10.154Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:18:10.155Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:18:22.776Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:18:22.783Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:18:22.783Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:18:26.941Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:18:26.948Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:18:26.948Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:18:35.015Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:18:35.022Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:18:35.023Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:18:51.425Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:18:51.433Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:18:51.433Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:18:52.910Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:18:52.912Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:18:52.912Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:18:55.286Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:18:55.292Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:18:55.293Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:18:57.946Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:18:57.950Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:18:57.950Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:19:00.876Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:19:00.880Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:19:00.880Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:19:04.506Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:19:04.508Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:19:04.508Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:19:15.524Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:19:15.527Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:19:15.527Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:19:18.348Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:19:18.351Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:19:18.351Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:19:20.664Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:19:20.669Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:19:20.669Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:19:26.317Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:19:26.319Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:19:26.320Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:19:29.175Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:19:29.177Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:19:29.177Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:19:31.490Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:19:31.496Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:19:31.497Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:19:33.176Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:19:33.180Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:19:33.181Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:19:55.346Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:19:55.353Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:19:55.353Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:19:59.493Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:19:59.498Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:19:59.499Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T15:20:32.373Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T15:20:32.379Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T15:20:32.379Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:17:54.285Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:17:54.292Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:17:54.292Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:18:03.757Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:18:03.761Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:18:03.762Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:18:06.265Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:18:06.272Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:18:06.272Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:18:10.616Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:18:10.626Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:18:10.628Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:18:13.003Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:18:13.007Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:18:13.007Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:18:18.030Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:18:18.035Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:18:18.035Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:18:22.232Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:18:22.238Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:18:22.238Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:18:24.987Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:18:24.990Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:18:24.990Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:18:28.822Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:18:28.824Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:18:28.824Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:18:32.365Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:18:32.372Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:18:32.373Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:18:35.853Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:18:35.860Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:18:35.860Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:18:43.695Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:18:43.699Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:18:43.699Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:18:51.876Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:18:51.882Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:18:51.882Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:18:54.947Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:18:54.949Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:18:54.950Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:18:56.876Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:18:56.882Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:18:56.883Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:19:02.440Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:19:02.442Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:19:02.442Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:19:05.984Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:19:05.988Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:19:05.988Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:19:12.477Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:19:12.483Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:19:12.483Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:19:41.641Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:19:41.648Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:19:41.649Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:19:56.844Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:19:56.850Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:19:56.850Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:23:42.867Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:23:42.872Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:23:42.872Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:24:12.664Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:24:12.670Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:24:12.671Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:24:17.425Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:24:17.432Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:24:17.433Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:24:28.628Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:24:28.631Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:24:28.631Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:24:33.367Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:24:33.370Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:24:33.370Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:24:38.348Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:24:38.350Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:24:38.350Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:24:40.424Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:24:40.428Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:24:40.429Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:24:43.816Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:24:43.823Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:24:43.824Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:24:49.607Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:24:49.613Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:24:49.613Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:24:52.971Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:24:52.978Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:24:52.979Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:24:57.428Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:24:57.430Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:24:57.430Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:24:59.412Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:24:59.419Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:24:59.419Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:25:04.083Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:25:04.088Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:25:04.088Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:25:09.952Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:25:09.958Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:25:09.958Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:25:11.487Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:25:11.494Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:25:11.494Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:25:18.338Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:25:18.342Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:25:18.342Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:25:21.668Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:25:21.675Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:25:21.675Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:31:48.679Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:31:48.682Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:31:48.682Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:31:50.917Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:31:50.922Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:31:50.923Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:31:54.233Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:31:54.240Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:31:54.242Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:32:03.060Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:32:03.065Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:32:03.065Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:32:05.715Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:32:05.717Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:32:05.717Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:32:10.575Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:32:10.582Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:32:10.583Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:32:14.669Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:32:14.671Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:32:14.671Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:32:18.944Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:32:18.947Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:32:18.947Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:32:21.021Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:32:21.023Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:32:21.024Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:32:23.012Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:32:23.017Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:32:23.017Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:32:26.260Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:32:26.265Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:32:26.265Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:32:30.460Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:32:30.463Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:32:30.463Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:32:32.440Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:32:32.443Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:32:32.443Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:32:35.721Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:32:35.724Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:32:35.724Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:32:38.647Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:32:38.651Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:32:38.651Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:32:43.469Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:32:43.472Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:32:43.473Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:32:49.340Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:32:49.345Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:32:49.345Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:32:52.397Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:32:52.403Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:32:52.404Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:33:57.487Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:33:57.490Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:33:57.490Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:34:02.056Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:34:02.062Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:34:02.063Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:34:06.979Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:34:06.986Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:34:06.986Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:34:12.020Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:34:12.026Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:34:12.027Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:34:15.725Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:34:15.729Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:34:15.729Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:34:17.552Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:34:17.555Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:34:17.555Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:34:19.424Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:34:19.431Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:34:19.431Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:34:32.654Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:34:32.656Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:34:32.657Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:34:37.353Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:34:37.356Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:34:37.356Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:34:39.259Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:34:39.267Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:34:39.267Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:34:45.603Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:34:45.605Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:34:45.605Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:34:48.138Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:34:48.140Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:34:48.140Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:34:50.542Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:34:50.545Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:34:50.546Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:34:52.051Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:34:52.055Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:34:52.055Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:34:54.480Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:34:54.487Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:34:54.488Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:34:59.082Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:34:59.089Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:34:59.089Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:35:07.891Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:35:07.893Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:35:07.893Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:35:10.156Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:35:10.163Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:35:10.163Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:35:13.534Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:35:13.539Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:35:13.540Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:35:20.217Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:35:20.220Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:35:20.221Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:35:22.908Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:35:22.912Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:35:22.913Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:35:27.782Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:35:27.786Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:35:27.786Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:35:30.922Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:35:30.927Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:35:30.927Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:36:08.159Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:36:08.164Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:36:08.165Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:36:09.875Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:36:09.882Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:36:09.882Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:36:48.230Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:36:48.237Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:36:48.238Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:36:54.491Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:36:54.493Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:36:54.494Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:37:02.302Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:37:02.306Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:37:02.306Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:37:07.713Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:37:07.715Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:37:07.715Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:37:15.255Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:37:15.258Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:37:15.258Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:37:18.202Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:37:18.204Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:37:18.204Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:37:20.383Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:37:20.386Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:37:20.386Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:37:22.775Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:37:22.777Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:37:22.777Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:37:24.863Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:37:24.870Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:37:24.871Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:37:39.277Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:37:39.279Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:37:39.280Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:37:42.574Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:37:42.577Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:37:42.578Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:37:44.905Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:37:44.907Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:37:44.907Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:37:49.347Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:37:49.349Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:37:49.349Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:37:52.204Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:37:52.207Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:37:52.207Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:37:56.470Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:37:56.472Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:37:56.472Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:37:58.898Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:37:58.901Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:37:58.901Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:38:02.457Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:38:02.459Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:38:02.459Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:38:07.313Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:38:07.316Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:38:07.316Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:38:09.458Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:38:09.460Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:38:09.460Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:38:11.431Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:38:11.436Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:38:11.437Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:38:14.704Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:38:14.711Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:38:14.712Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:47:36.038Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:47:36.045Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:47:36.045Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:48:47.178Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:48:47.183Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:48:47.184Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:48:51.836Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:48:51.839Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:48:51.839Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:48:57.664Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:48:57.666Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:48:57.667Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:49:00.880Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:49:00.885Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:49:00.885Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:49:08.759Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:49:08.761Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:49:08.761Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:49:12.992Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:49:12.995Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:49:12.995Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:49:17.009Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:49:17.014Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:49:17.014Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:49:19.826Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:49:19.828Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:49:19.828Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:49:24.417Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:49:24.421Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:49:24.421Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:49:30.119Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:49:30.121Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:49:30.122Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:49:34.781Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:49:34.787Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:49:34.787Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:49:55.416Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:49:55.423Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:49:55.423Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:50:09.045Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:50:09.051Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:50:09.051Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:50:11.351Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:50:11.357Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:50:11.357Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:50:24.075Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:50:24.077Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:50:24.077Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:50:27.258Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:50:27.260Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:50:27.261Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:50:32.543Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:50:32.547Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:50:32.547Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:50:34.337Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:50:34.343Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:50:34.344Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:50:36.018Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:50:36.020Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:50:36.020Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:50:39.106Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:50:39.109Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:50:39.109Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:50:45.596Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:50:45.603Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:50:45.603Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:50:49.597Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:50:49.600Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:50:49.600Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:50:53.655Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:50:53.662Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:50:53.662Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:50:58.189Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:50:58.192Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:50:58.192Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:51:02.467Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:51:02.469Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:51:02.470Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:51:05.698Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:51:05.701Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:51:05.701Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:51:10.260Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:51:10.266Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:51:10.266Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:51:12.837Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:51:12.839Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:51:12.840Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:51:15.753Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:51:15.760Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:51:15.761Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-26T19:51:20.717Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-26T19:51:20.724Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-26T19:51:20.724Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:22:24.624Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:22:24.627Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:22:24.627Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:23:00.607Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:23:00.610Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:23:00.610Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:23:04.054Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:23:04.059Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:23:04.060Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:23:14.173Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:23:14.180Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:23:14.181Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:23:19.913Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:23:19.917Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:23:19.918Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:23:22.501Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:23:22.506Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:23:22.506Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:23:27.559Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:23:27.566Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:23:27.566Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:23:37.612Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:23:37.615Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:23:37.615Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:23:47.272Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:23:47.274Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:23:47.274Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:23:52.449Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:23:52.453Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:23:52.453Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:24:02.643Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:24:02.645Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:24:02.645Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:24:09.219Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:24:09.222Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:24:09.222Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:24:13.953Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:24:13.958Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:24:13.958Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:25:50.940Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:25:50.944Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:25:50.945Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:25:56.949Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:25:56.955Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:25:56.956Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:32:54.849Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:32:54.856Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:32:54.856Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:33:53.035Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:33:53.037Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:33:53.038Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:33:55.030Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:33:55.035Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:33:55.035Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:33:59.366Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:33:59.374Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:33:59.374Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:34:06.337Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:34:06.340Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:34:06.340Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:34:08.546Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:34:08.548Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:34:08.548Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:34:12.311Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:34:12.319Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:34:12.319Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:34:23.612Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:34:23.615Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:34:23.616Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:34:33.642Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:34:33.648Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:34:33.648Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:34:37.829Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:34:37.836Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:34:37.837Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:34:41.512Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:34:41.519Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:34:41.519Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:34:43.156Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:34:43.162Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:34:43.163Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:34:47.822Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:34:47.824Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:34:47.825Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:34:50.251Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:34:50.258Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:34:50.259Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:34:55.549Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:34:55.555Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:34:55.556Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:36:12.663Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:36:12.670Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:36:12.671Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:37:11.782Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:37:11.785Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:37:11.785Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T00:37:30.416Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T00:37:30.421Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T00:37:30.421Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T01:07:19.147Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T01:07:19.153Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T01:07:19.154Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T01:08:31.697Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T01:08:31.699Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T01:08:31.699Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T01:08:42.390Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T01:08:42.393Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T01:08:42.393Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T01:08:47.778Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T01:08:47.781Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T01:08:47.781Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T01:08:54.922Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T01:08:54.925Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T01:08:54.926Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T01:09:00.981Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T01:09:00.987Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T01:09:00.988Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T01:09:08.378Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T01:09:08.383Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T01:09:08.383Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T01:09:38.152Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T01:09:38.157Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T01:09:38.157Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T01:09:42.649Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T01:09:42.652Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T01:09:42.652Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T01:09:49.243Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T01:09:49.246Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T01:09:49.246Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T01:09:51.970Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T01:09:51.975Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T01:09:51.975Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T01:10:00.134Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T01:10:00.140Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T01:10:00.140Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T01:10:45.391Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T01:10:45.399Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T01:10:45.399Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T01:11:58.037Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T01:11:58.041Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T01:11:58.041Z"}
+{"level":"info","message":"MongoDB Atlas conectado!","service":"user-service","timestamp":"2025-10-27T01:13:08.756Z"}
+{"level":"info","message":"Servidor rodando na porta: 3001","service":"user-service","timestamp":"2025-10-27T01:13:08.758Z"}
+{"level":"info","message":"Acesse aqui: http://localhost:3001","service":"user-service","timestamp":"2025-10-27T01:13:08.759Z"}
