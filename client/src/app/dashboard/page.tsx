@@ -24,7 +24,24 @@ import {
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
-import { format } from "date-fns";
+import {
+  addDays,
+  format,
+  isWithinInterval,
+  startOfDay,
+  subDays,
+} from "date-fns";
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+} from "@/components/ui/dialog";
+import { AnxietyGames } from "@/components/games/AnxietyGames";
+import MoodForm from "@/components/mood/MoodForm";
+import { ActivityLogger } from "@/components/activities/ActivityLogger";
+import { useRouter } from "next/navigation";
 
 type ActivityLevel = "none" | "low" | "medium" | "high";
 
@@ -64,6 +81,7 @@ interface DailyStats {
 
 export default function Dashboard() {
   const [currentTime, setCurrentTime] = useState(new Date());
+  const router = useRouter();
 
   useEffect(() => {
     const timer = setInterval(() => setCurrentTime(new Date()), 1000);
@@ -78,6 +96,13 @@ export default function Dashboard() {
       priority: "low" | "medium" | "high";
     }[]
   >([]);
+  const [activities, setActivities] = useState<Activity[]>([]);
+  const [showMoodModal, setShowMoodModal] = useState(false);
+  const [showCheckInChat, setShowCheckInChat] = useState(false);
+  const [activityHistory, setActivityHistory] = useState<DayActivity[]>([]);
+  const [showActivityLogger, setShowActivityLogger] = useState(false);
+  const [isSavingActivity, setIsSavingActivity] = useState(false);
+  const [isSavingMood, setIsSavingMood] = useState(false);
   const [dailyStats, setDailyStats] = useState<DailyStats>({
     moodScore: null,
     completionRate: 100,
@@ -85,6 +110,67 @@ export default function Dashboard() {
     totalActivities: 0,
     lastUpdated: new Date(),
   });
+
+  const handleMoodSubmit = async (data: { moodScore: number }) => {
+    setIsSavingMood(true);
+    try {
+      // await saveMoodData({
+      //   userId: "default-user",
+      //   mood: data.moodScore,
+      //   note: "",
+      // });
+      setShowMoodModal(false);
+    } catch (error) {
+      console.error("Error saving mood:", error);
+    } finally {
+      setIsSavingMood(false);
+    }
+  };
+
+  const handleAICheckIn = () => {
+    setShowActivityLogger(true);
+  };
+
+  const handleStartTherapy = () => {
+    router.push("/therapy/new");
+  };
+
+  const transformActivitiesToDayActivity = (
+    activities: Activity[]
+  ): DayActivity[] => {
+    const days: DayActivity[] = [];
+    const today = new Date();
+
+    for (let i = 27; i >= 0; i--) {
+      const date = startOfDay(subDays(today, i));
+      const dayActivities = activities.filter((activity) =>
+        isWithinInterval(new Date(activity.timestamp), {
+          start: date,
+          end: addDays(date, 1),
+        })
+      );
+
+      let level: ActivityLevel = "none";
+      if (dayActivities.length > 0) {
+        if (dayActivities.length <= 2) level = "low";
+        else if (dayActivities.length <= 4) level = "medium";
+        else level = "high";
+      }
+
+      days.push({
+        date,
+        level,
+        activities: dayActivities.map((activity) => ({
+          type: activity.type,
+          name: activity.name,
+          completed: activity.completed,
+          time: format(new Date(activity.timestamp), "h:mm a"),
+        })),
+      });
+    }
+
+    return days;
+  };
 
   const wellnessStats = [
     {
@@ -134,7 +220,7 @@ export default function Dashboard() {
               Bem-Vindo de volta!
             </h1>
             <p className="text-muted-foreground">
-              {currentTime.toLocaleDateString("en-US", {
+              {currentTime.toLocaleDateString("pt-BR", {
                 weekday: "long",
                 month: "long",
                 day: "numeric",
@@ -174,7 +260,7 @@ export default function Dashboard() {
                         "bg-linear-to-r from-primary/90 to-primary hover:from-primary hover:to-primary/90",
                         "transition-all duration-200 group-hover:-translate-y-0.5"
                       )}
-                      // onClick={handleStartTherapy}
+                      onClick={handleStartTherapy}
                     >
                       <div className="flex items-center gap-3">
                         <div className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center">
@@ -202,7 +288,7 @@ export default function Dashboard() {
                           "justify-center items-center text-center",
                           "transition-all duration-200 group-hover:-translate-y-0.5"
                         )}
-                        // onClick={() => setShowMoodModal(true)}
+                        onClick={() => setShowMoodModal(true)}
                       >
                         <div className="w-10 h-10 rounded-full bg-rose-500/10 flex items-center justify-center mb-2">
                           <Heart className="w-5 h-5 text-rose-500" />
@@ -224,7 +310,7 @@ export default function Dashboard() {
                           "justify-center items-center text-center",
                           "transition-all duration-200 group-hover:-translate-y-0.5"
                         )}
-                        // onClick={handleAICheckIn}
+                        onClick={handleAICheckIn}
                       >
                         <div className="w-10 h-10 rounded-full bg-blue-500/10 flex items-center justify-center mb-2">
                           <BrainCircuit className="w-5 h-5 text-blue-500" />
@@ -250,7 +336,7 @@ export default function Dashboard() {
                     <CardTitle>Resumo de Hoje</CardTitle>
                     <CardDescription>
                       Suas métricas de bem-estar para{" "}
-                      {format(new Date(), "MMMM d, yyyy")}
+                      {format(new Date(), "d MMMM, yyyy")}
                     </CardDescription>
                   </div>
                   <Button
@@ -341,11 +427,31 @@ export default function Dashboard() {
 
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
             <div className="lg:col-span-3 space-y-6">
-              {/* <AnxietyGames onGamePlayed={handleGamePlayed} /> */}
+              <AnxietyGames />
             </div>
           </div>
         </div>
       </Container>
+
+      <Dialog open={showMoodModal} onOpenChange={setShowMoodModal}>
+        <DialogContent className="sm:max-w-[425px]">
+          <DialogHeader>
+            <DialogTitle>Como você está se sentindo?</DialogTitle>
+            <DialogDescription>
+              Move o slider para vermos seu humor atual
+            </DialogDescription>
+          </DialogHeader>
+          <MoodForm
+            // onSubmit={handleMoodSubmit}
+            onSuccess={() => setShowMoodModal(false)}
+          />
+        </DialogContent>
+      </Dialog>
+
+      <ActivityLogger
+        open={showActivityLogger}
+        onOpenChange={setShowActivityLogger}
+      />
     </div>
   );
 }
