@@ -189,7 +189,7 @@ export default function TherapyPage() {
                   placeholder={
                     isChatPaused
                       ? "Complete a atividade para continuar..."
-                      : "Pergunte qualquer coisa..."
+                      : "Fale sobre qualquer coisa..."
                   }
                   className={cn(
                     "w-full resize-none rounded-2xl border bg-background",
