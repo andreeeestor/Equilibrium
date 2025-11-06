@@ -9,7 +9,7 @@ import { Button } from "../ui/button";
 export default function Header() {
   const navItems = [
     { href: "/features", label: "Funcionalidades" },
-    { href: "/sobre", label: "Sobre" },
+    { href: "/about", label: "Sobre" },
   ];
 
   const [isMenuOpen, setIsMenuOpen] = useState(false);

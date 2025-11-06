@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { Waves } from "lucide-react";
+import ScrollVelocity from "@/components/ScrollVelocity";
 
 export default function EnhancedLandingPage() {
   const [mounted, setMounted] = useState(false);
@@ -371,6 +372,91 @@ export default function EnhancedLandingPage() {
             ))}
           </div>
         </div>
+      </section>
+
+      <section className="relative py-16 overflow-hidden bg-linear-to-r from-red-500/10 via-red-500/5 to-red-500/10 border-y border-red-500/20">
+        <ScrollVelocity
+          texts={["⚠️ AVISO!", "⚠️ AVISO!", "⚠️ AVISO!"]}
+          velocity={50}
+          className="text-red-500 dark:text-red-400"
+          numCopies={8}
+        />
+
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          className="max-w-4xl mx-auto text-center px-4 mt-12"
+        >
+          <div className="bg-red-500/10 backdrop-blur-sm border border-red-500/20 rounded-2xl p-8 md:p-12">
+            <div className="flex items-center justify-center gap-3 mb-6">
+              <div className="w-12 h-12 rounded-full bg-red-500/20 flex items-center justify-center">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="w-6 h-6 text-red-500"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"
+                  />
+                </svg>
+              </div>
+              <h3 className="text-2xl md:text-3xl font-bold text-red-500 dark:text-red-400">
+                Aviso Importante
+              </h3>
+            </div>
+
+            <div className="space-y-4 text-left md:text-center">
+              <p className="text-base md:text-lg text-foreground/90 dark:text-foreground leading-relaxed">
+                <strong className="text-red-500">
+                  Serena é uma ferramenta de apoio emocional baseada em IA
+                </strong>{" "}
+                e{" "}
+                <strong className="text-red-500">
+                  não substitui profissionais de saúde mental licenciados
+                </strong>{" "}
+                como psicólogos, psiquiatras ou terapeutas.
+              </p>
+
+              <p className="text-sm md:text-base text-muted-foreground leading-relaxed">
+                Se você está enfrentando uma crise de saúde mental, pensamentos
+                suicidas, ou situações de emergência,
+                <strong> procure ajuda profissional imediatamente</strong>.
+                Entre em contato com serviços de emergência locais ou linhas de
+                apoio especializadas.
+              </p>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6 text-sm">
+                <div className="bg-background/50 backdrop-blur-sm rounded-lg p-4 border border-border/50">
+                  <p className="font-semibold mb-2">
+                    🇧🇷 CVV - Centro de Valorização da Vida
+                  </p>
+                  <p className="text-muted-foreground">
+                    Ligue 188 (24h, gratuito)
+                  </p>
+                </div>
+                <div className="bg-background/50 backdrop-blur-sm rounded-lg p-4 border border-border/50">
+                  <p className="font-semibold mb-2">
+                    🏥 CAPS - Centros de Atenção Psicossocial
+                  </p>
+                  <p className="text-muted-foreground">
+                    Atendimento gratuito pelo SUS
+                  </p>
+                </div>
+              </div>
+
+              <p className="text-xs text-muted-foreground italic mt-6">
+                * Use Serena como complemento ao acompanhamento profissional,
+                não como substituto.
+              </p>
+            </div>
+          </div>
+        </motion.div>
       </section>
 
       <section className="py-20 px-4 bg-muted/30">

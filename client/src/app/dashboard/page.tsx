@@ -172,6 +172,8 @@ export default function Dashboard() {
     return days;
   };
 
+  const loadActivities = () => {}
+
   const wellnessStats = [
     {
       title: "Pontuação do Humor",
@@ -451,6 +453,7 @@ export default function Dashboard() {
       <ActivityLogger
         open={showActivityLogger}
         onOpenChange={setShowActivityLogger}
+        onActivityLogged={loadActivities}
       />
     </div>
   );
